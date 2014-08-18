@@ -1,0 +1,16 @@
+D:\VS_Project\tester1\tester1\bin\Debug\tester1.exe
+D:\VS_Project\tester1\tester1\bin\Debug\tester1.pdb
+D:\VS_Project\tester1\tester1\obj\x86\Debug\tester1.Form1.resources
+D:\VS_Project\tester1\tester1\obj\x86\Debug\tester1.Properties.Resources.resources
+D:\VS_Project\tester1\tester1\obj\x86\Debug\tester1.csproj.GenerateResource.Cache
+D:\VS_Project\tester1\tester1\obj\x86\Debug\tester1.exe
+D:\VS_Project\tester1\tester1\obj\x86\Debug\tester1.pdb
+D:\VS_Project\tester1\tester1\obj\x86\Debug\tester1.csprojResolveAssemblyReference.cache
+D:\Mechanic Tester\tester1\tester1\obj\x86\Debug\tester1.exe
+D:\Mechanic Tester\tester1\tester1\obj\x86\Debug\tester1.pdb
+D:\Mechanic Tester\tester1\tester1\bin\Debug\tester1.exe
+D:\Mechanic Tester\tester1\tester1\bin\Debug\tester1.pdb
+D:\Mechanic Tester\tester1\tester1\obj\x86\Debug\tester1.csprojResolveAssemblyReference.cache
+D:\Mechanic Tester\tester1\tester1\obj\x86\Debug\tester1.Form1.resources
+D:\Mechanic Tester\tester1\tester1\obj\x86\Debug\tester1.Properties.Resources.resources
+D:\Mechanic Tester\tester1\tester1\obj\x86\Debug\tester1.csproj.GenerateResource.Cache
